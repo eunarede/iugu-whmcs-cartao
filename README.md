@@ -4,6 +4,8 @@
 
 Realize transações por cartão de crédito de forma transparente com o módulo WHMCS Iugu Cartão PRO.
 
+Disponível no [WHMCS Marketplace](https://marketplace.whmcs.com/product/4027)
+
 ![](https://assets.eunarede.net/products/whmcs/iugu/cartao/hero-image.jpg)
 
 O Módulo WHMCS Iugu Cartão PRO é um módulo de pagamento para o intermediador Iugu que possibilita a utilização do método de pagamento por cartão de crédito de forma transparente dentro do WHMCS.
